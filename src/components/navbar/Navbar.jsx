@@ -24,9 +24,9 @@ export default function Navbar() {
                         <h3>P<span className='span'>i</span>xer</h3>
                     </div>
                     <div className="nav_list">
-                        <li><a href="#Hero"> Bosh sahifa</a></li>
+                        <li><a href="#"> Bosh sahifa</a></li>
                         <li><a href="#Services"> Xizmatlar</a></li>
-                        <li><a href="#"> Portfolio</a></li>
+                        <li><a href="#Hero"> Portfolio</a></li>
                         <li><a href="#Work"> Jamoa</a></li>
                         <li><a href="#Dastavqa"> Blog</a></li>
                         <li><a href="#Footer"> Kontaktlar</a></li>
